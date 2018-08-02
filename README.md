@@ -12,3 +12,5 @@ test1
 dev1
 
 jali1
+
+git is a free software.
