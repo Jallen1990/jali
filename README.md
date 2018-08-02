@@ -13,4 +13,8 @@ dev1
 
 jali1
 
+<<<<<<< Updated upstream
 git is a free software.
+=======
+temp
+>>>>>>> Stashed changes
